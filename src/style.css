@@ -90,6 +90,10 @@ p {
   display: flex;
 }
 
+span.wrap {
+  color: white;
+}
+
 .header-options > h3 {
   color: #4159F6;
   margin-right: 2.5%;
