@@ -1,0 +1,19 @@
+{
+  "name": "bsy",
+  "version": "1.0.0",
+  "description": "brooke yalof's portfolio site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio",
+    "site",
+    "brooke",
+    "yalof",
+    "web",
+    "dev"
+  ],
+  "author": "brooke scarlett yalof",
+  "license": "ISC"
+}
