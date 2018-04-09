@@ -131,6 +131,10 @@ span.wrap {
   right: 0;
 }
 
+.arrow a {
+  color: white;
+}
+
 
 /* Container */
 .container {
