@@ -1,24 +1,6 @@
-// import Typed from 'typed.js';
-
 document.addEventListener("DOMContentLoaded", function() {
 
-  let iAmArray = [
-    "foodie",
-    "nerd",
-    "taurus",
-    "full-stack web developer"
-  ]
-
-  let passionArray = [
-    "yoga",
-    "traveling",
-    "learning",
-    "clean design"
-  ]
-
-  let iCounter = 0
-  let pCounter = 0
-
+  
   var TxtType = function(el, toRotate, period) {
         this.toRotate = toRotate;
         this.el = el;
